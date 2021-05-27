@@ -9,9 +9,9 @@
     background-color: #ffd700;
     background: linear-gradient(rgba(92, 91, 91, 0.192),rgb(92, 91, 91, 0.192)),url('https://i.ibb.co/KwKL6FM/Bkgwb.png');
     background-size: cover;
-    padding-left: 8%;
+/*     padding-left: 8%;
     padding-right: 8%;
-    padding-top: 10px;
+    padding-top: 10px; */
     box-sizing: border-box;
 }
 
